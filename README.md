@@ -60,5 +60,3 @@ npm run server
 cd frontend
 npm run build
 ```
-# MERN-AUTH
-# MERN-AUTH
